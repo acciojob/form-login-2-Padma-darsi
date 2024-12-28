@@ -1,7 +1,8 @@
 
 
-function info()
+function info(event)
 	{
+		 event.preventDefault();
 	   const fname=document.getElementById("f-name").value;
        const lname=document.getElementById("l-name").value;
        const num=document.getElementById("num").value;
