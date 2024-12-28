@@ -1,6 +1,6 @@
 
 
-function info
+function info()
 	{
 	   const fname=document.getElementById("f-name").value;
        const lname=document.getElementById("l-name").value;
