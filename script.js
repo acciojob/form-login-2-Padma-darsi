@@ -5,5 +5,5 @@ let mail=document.getElementById("mail").value;
 
 function info
 	{
-	   
+	   alert(submit.textContent=fname+lname+num+mail);
 	}
